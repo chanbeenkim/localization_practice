@@ -1,0 +1,17 @@
+{
+  "title": "Localizations",
+  "hello": "Hello",
+  "name": "Name",
+  "clear": "clear",
+  "english": "English",
+  "korean": "한국어",
+  "chanbeenkim": "chanbeenkim",
+  "myNameIs": "My Name is {}",
+  "namedArgs": "Named Args {name}",
+  "argsWithNamedArgs": "args: {}, {}, Named Args {name}",
+  "mode": {
+    "mode1": "With {}.",
+    "mode2": "leave with a {}.",
+    "mode3": "cheer for {}."
+  }
+}
